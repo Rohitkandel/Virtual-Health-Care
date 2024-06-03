@@ -21,7 +21,7 @@ An AI-driven web application that provides personalized medical insights based o
 - **Machine Learning**: Scikit-learn (SVM classifier)
 - **Data Handling**: Pandas, NumPy
 - **Text Processing**: FuzzyWuzzy
-- **Frontend**: HTML, CSS (not included in this repo)
+- **Frontend**: HTML, CSS 
 
 ## 🚦 Prerequisites
 
